@@ -1,6 +1,6 @@
-# ankit17110.github.io
+# assignment.github.io
 ABOUT
--MUSICO/Slacker is a music platform that allows users to find details about his favourite music and their favourite artists. 
+-MUSICO/MUSICLIBRARY is a music platform that allows users to find details about his favourite music and their favourite artists. 
 
 Features
 -Any track can be searched by name
